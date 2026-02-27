@@ -13,7 +13,7 @@
 
 ## 🎬 Demo
 
-<p align="center"> <video src="video.mp4" width="700" controls></video> </p>
+<p align="center"> <img src="video.gif" width="700" alt="Demo"> </p>
 
 ---
 
