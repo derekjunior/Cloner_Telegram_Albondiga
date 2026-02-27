@@ -90,6 +90,16 @@ Para soporte o dudas:
 
 Si este proyecto te sirve…
 
+---
+
+## 💖 DONAR
+
+Si te gusta el proyecto y quieres apoyarlo, puedes donar aquí:
+
+[![Donate with Stripe](https://img.shields.io/badge/Donate-Stripe-6772E5?style=for-the-badge&logo=stripe&logoColor=white)](https://donate.stripe.com/9B68wQeyidMqgsz0yC8g001)
+
+> Tu apoyo permite mantener y mejorar **AutokeyclickerX V1**, agregando nuevas funciones y mejoras 🚀
+
 👉 Dale estrella ⭐
 👉 Compártelo
 👉 Úsalo con cabeza 😎
