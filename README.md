@@ -13,7 +13,7 @@
 
 ## 🎬 Demo
 
-<p align="center"> <video src="2026-02-26_12-04-13.mp4" width="700" controls></video> </p>
+<p align="center"> <video src="video.mp4" width="700" controls></video> </p>
 
 ---
 
